@@ -1,10 +1,10 @@
 ![hookit](https://st.weblancer.net/download/4968418_120xs.jpg)
 
-# About us
+# WE ARE
 
 A team of dedicated creative professionals who strive to help their clients make their business more efficient through a high-quality and reliable resource.
 
-# Languages and Technologies
+# WE USE
 
 ### Front-end
 
@@ -24,7 +24,7 @@ A team of dedicated creative professionals who strive to help their clients make
 
 
 
-## Let's create something interesting
+## OUR CONTACTS
 
 - **Email:** hookit.studio@gmail.com
 - **Telegram:** @MrNikAbrams, @sergeyvasylenko4, @malykhina_designer
