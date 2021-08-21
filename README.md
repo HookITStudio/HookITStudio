@@ -1,4 +1,4 @@
-![hookit](https://github.com/HookITStudio/HookITStudio/blob/main/hookit.jpg?raw=true)
+![hookit](https://github.com/HookITStudio/HookITStudio/blob/main/hookit.st.jpg?raw=true)
 
 # Abous us
 
