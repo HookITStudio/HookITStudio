@@ -1,6 +1,6 @@
 ![hookit](https://st.weblancer.net/download/4968418_120xs.jpg)
 
-# Hi 👋🏻, we are HookIT
+# About us
 
 A team of dedicated creative professionals who strive to help their clients make their business more efficient through a high-quality and reliable resource.
 
